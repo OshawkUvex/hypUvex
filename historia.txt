@@ -1,1 +1,3 @@
 Algun archivo
+
+Modificado de nuevo despues del hard reset
