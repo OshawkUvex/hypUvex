@@ -1,11 +1,11 @@
 body{
+
     text-align: center;
     font-family: "Courier";
     color: blue;
 
     
 }
-
 #cabecera {
     background: #33a;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
@@ -19,7 +19,6 @@ body{
     font-weight: normal;
     font-size: 0.8em;
 }
-
 #container {
     width: 70%;
     padding: 0;
